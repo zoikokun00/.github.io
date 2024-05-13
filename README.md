@@ -1,3 +1,3 @@
 # .github.io
 
-https://zoikokun00.github.io/julsugliwoh-UAS
+- https://zoikokun00.github.io/julsugliwoh-UAS
